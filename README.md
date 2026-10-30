@@ -1,7 +1,7 @@
 <div align="center">
 
-<img width="100%" src="./assets/cybersecurity-banner.png" alt="Akash CP — Cybersecurity, SOC Operations, and Threat Detection banner"/>
-
+<img width="100%" src="./cybersecurity-banner.png" alt="Akash CP — Cybersecurity, SOC Operations, and Threat Detection banner"/>
+ 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=700&color=EC168F&center=true&vCenter=true&width=760&lines=%24+whoami;Cybersecurity+Student+%7C+Security+Enthusiast;SOC+Operations+%C2%B7+Threat+Detection+%C2%B7+Python;Learning+to+detect%2C+investigate%2C+and+respond." alt="Typing SVG"/>
 </a>
