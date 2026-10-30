@@ -1,7 +1,7 @@
 <div align="center">
 
 <img width="100%" src="./cybersecurity-banner.png" alt="Akash CP — Cybersecurity, SOC Operations, and Threat Detection banner"/>
- 
+
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=700&color=EC168F&center=true&vCenter=true&width=760&lines=%24+whoami;Cybersecurity+Student+%7C+Security+Enthusiast;SOC+Operations+%C2%B7+Threat+Detection+%C2%B7+Python;Learning+to+detect%2C+investigate%2C+and+respond." alt="Typing SVG"/>
 </a>
@@ -82,21 +82,31 @@ security_development:
 ## `> ./certifications.sh`
 
 - Google Cybersecurity Certificate
+- Blue Team Fundamentals (BTF)
+- Certified Cyber Security Analyst (C3SA)
+- Certified Penetration Tester (CPent)
+- Ethical Hacking Essentials (EHE) — EC-Council
 
 ## `> ./github_stats.sh`
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Akashcp111&show_icons=true&hide_border=true&bg_color=090014&title_color=ec168f&icon_color=18f7e8&text_color=e8e2f0&rank_icon=github" alt="GitHub statistics"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=Akashcp111&theme=transparent&hide_border=true&background=090014&ring=ec168f&fire=18f7e8&currStreakLabel=ec168f&sideLabels=e8e2f0&dates=9b8eac" alt="GitHub contribution streak"/>
+
+<a href="https://github.com/Akashcp111">
+  <img width="100%" src="https://streak-stats.demolab.com?user=Akashcp111&theme=transparent&hide_border=true&background=090014&ring=ec168f&fire=18f7e8&currStreakLabel=ec168f&sideLabels=e8e2f0&dates=9b8eac" alt="GitHub contribution streak"/>
+</a>
+
+<p>
+  <a href="https://github.com/Akashcp111?tab=repositories">
+    <img src="https://img.shields.io/badge/View-Repositories-171020?style=for-the-badge&logo=github&logoColor=18f7e8" alt="View repositories"/>
+  </a>
+  <a href="https://github.com/Akashcp111?tab=stars">
+    <img src="https://img.shields.io/badge/View-Starred%20Projects-171020?style=for-the-badge&logo=github&logoColor=ec168f" alt="View starred projects"/>
+  </a>
+</p>
+
 </div>
 
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashcp111&layout=compact&hide_border=true&bg_color=090014&title_color=ec168f&text_color=e8e2f0" alt="Most used programming languages"/>
-</div>
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Akashcp111&bg_color=090014&color=e8e2f0&line=ec168f&point=18f7e8&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
-</div>
+> **Note:** GitHub stats cards can temporarily fail when third-party services are rate-limited or unavailable. I’ve removed the cards that were showing broken-image icons and expanded the working streak card to use the full available width.
 
 ## `> ./connect.sh`
 
